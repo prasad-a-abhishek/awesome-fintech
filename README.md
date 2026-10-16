@@ -36,6 +36,7 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [Blnk](https://github.com/blnkfinance/blnk) – Open source ledger and financial core for wallets, billing, and money-movement products.
 - [Fed](https://github.com/moov-io/fed) – Fuzzy lookup library for FedACH and FedWire ABA routing numbers and bank names.
 - [Formance Ledger](https://github.com/formancehq/ledger) – Programmable open source ledger with atomic multi-posting transactions and a built-in DSL (Numscript).
+- [iban-pure](https://github.com/prasad-a-abhishek/iban-pure) – Zero-dependency Python library for IBAN validation.
 - [iban4j](https://github.com/arturmkrtchyan/iban4j) – Java library for IBAN and BIC validation, parsing, and generation.
 - [IBANTools](https://github.com/Simplify/ibantools) – TypeScript/JavaScript library for validation, creation, and extraction of IBAN, BBAN, and BIC/SWIFT numbers.
 - [Image Cash Letter](https://github.com/moov-io/imagecashletter) – Reader, writer, and validator for X9 Image Cash Letter (Check 21) files used in US check clearing.
